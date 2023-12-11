@@ -1,0 +1,17 @@
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\bin\Debug\net6.0\ConsoleApp_ConsumirAPI.exe
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\bin\Debug\net6.0\ConsoleApp_ConsumirAPI.deps.json
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\bin\Debug\net6.0\ConsoleApp_ConsumirAPI.runtimeconfig.json
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\bin\Debug\net6.0\ConsoleApp_ConsumirAPI.dll
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\bin\Debug\net6.0\ConsoleApp_ConsumirAPI.pdb
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\obj\Debug\net6.0\ConsoleApp_ConsumirAPI.csproj.AssemblyReference.cache
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\obj\Debug\net6.0\ConsoleApp_ConsumirAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\obj\Debug\net6.0\ConsoleApp_ConsumirAPI.AssemblyInfoInputs.cache
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\obj\Debug\net6.0\ConsoleApp_ConsumirAPI.AssemblyInfo.cs
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\obj\Debug\net6.0\ConsoleApp_ConsumirAPI.csproj.CoreCompileInputs.cache
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\obj\Debug\net6.0\ConsoleApp_ConsumirAPI.csproj.CopyComplete
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\obj\Debug\net6.0\ConsoleApp_ConsumirAPI.dll
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\obj\Debug\net6.0\refint\ConsoleApp_ConsumirAPI.dll
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\obj\Debug\net6.0\ConsoleApp_ConsumirAPI.pdb
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\obj\Debug\net6.0\ConsoleApp_ConsumirAPI.genruntimeconfig.cache
+D:\workspace\Academia dotnet\ConsoleApp_ConsumirAPI\ConsoleApp_ConsumirAPI\obj\Debug\net6.0\ref\ConsoleApp_ConsumirAPI.dll

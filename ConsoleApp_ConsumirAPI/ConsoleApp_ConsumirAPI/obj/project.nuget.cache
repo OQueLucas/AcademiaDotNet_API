@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "it59ZmplyVqp7zxZDwSC4oYrBgPISXPcfRpIC3Ab0fih22MCrS2oiVThs2XoDTg8v8I5SFx9Lp7YNS2yRif7tw==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\Academia dotnet\\ConsoleApp_ConsumirAPI\\ConsoleApp_ConsumirAPI\\ConsoleApp_ConsumirAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\l_que\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
